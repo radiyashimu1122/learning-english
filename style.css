@@ -1,0 +1,25 @@
+body{
+    padding-left: 300px;
+}
+
+.alldetails{
+    display: inline-flex;
+    gap: 160px;
+    background-color: #dcdcdc;
+}
+.book{
+    margin-left: 90px;
+}
+.english{
+    border-radius: 100%;
+    border: 1px solid green;
+}
+.motherdiv{
+ display: inline-flex;   
+}
+.details{
+    display: inline-flex;
+}
+
+
+
